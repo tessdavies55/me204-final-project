@@ -1,5 +1,16 @@
-# ME204 Final Project
+# ME204 Project
 
-[use just and index.md if working solo, but if working with others, add links to their invidiual pages like below]
+Welcome to my ME204 project website.
+
+This website will contain:
+
+- Project overview
+- Data analysis
+- Visualisations
+- Conclusions
+
+## About the project
+
+This website is currently being worked on and will be updated throughout the project.
 
 - [Your GitHub username](./your-github-username.md)
