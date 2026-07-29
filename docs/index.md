@@ -13,6 +13,8 @@ This website will contain:
 
 This website is currently being worked on and will be updated throughout the project.
 
+## Testing a picture of my dog
+
 ![Here is my dog](images/project-dog.png)
 
 - [Your GitHub username](./your-github-username.md)
