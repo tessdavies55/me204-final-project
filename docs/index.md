@@ -124,4 +124,4 @@ This project was completed using:
 
 The complete source code, notebooks, processed data, and documentation are available in this project's GitHub repository.
 
-- [Your GitHub username](./your-github-username.md)
+- [tessdavies55](./tessdavies55.md)
