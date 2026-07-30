@@ -1,0 +1,769 @@
+[
+    {
+        "city_requested": "London",
+        "country": "GB",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "collected_at_utc": "2026-07-30T15:30:07.388303+00:00",
+        "weather": {
+            "coord": {
+                "lon": -0.13,
+                "lat": 51.51
+            },
+            "weather": [
+                {
+                    "id": 803,
+                    "main": "Clouds",
+                    "description": "broken clouds",
+                    "icon": "04d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 27.75,
+                "feels_like": 27.72,
+                "temp_min": 26.67,
+                "temp_max": 28.94,
+                "pressure": 1014,
+                "humidity": 44,
+                "sea_level": 1014,
+                "grnd_level": 1010
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.68,
+                "deg": 259,
+                "gust": 3.13
+            },
+            "clouds": {
+                "all": 83
+            },
+            "dt": 1785424851,
+            "sys": {
+                "type": 2,
+                "id": 2075535,
+                "country": "GB",
+                "sunrise": 1785385254,
+                "sunset": 1785441170
+            },
+            "timezone": 3600,
+            "id": 2643743,
+            "name": "London",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": -0.1257,
+                "lat": 51.5085
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 2
+                    },
+                    "components": {
+                        "co": 96.92,
+                        "no": 1.16,
+                        "no2": 4.53,
+                        "o3": 88.38,
+                        "so2": 5.31,
+                        "pm2_5": 6.35,
+                        "pm10": 14.93,
+                        "nh3": 0
+                    },
+                    "dt": 1785424956
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Paris",
+        "country": "FR",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "collected_at_utc": "2026-07-30T15:30:07.466908+00:00",
+        "weather": {
+            "coord": {
+                "lon": 2.3522,
+                "lat": 48.8567
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 30.24,
+                "feels_like": 31.58,
+                "temp_min": 29.44,
+                "temp_max": 31.09,
+                "pressure": 1016,
+                "humidity": 51,
+                "sea_level": 1016,
+                "grnd_level": 1005
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.75,
+                "deg": 225,
+                "gust": 6.42
+            },
+            "clouds": {
+                "all": 6
+            },
+            "dt": 1785425391,
+            "sys": {
+                "type": 2,
+                "id": 66795,
+                "country": "FR",
+                "sunrise": 1785385254,
+                "sunset": 1785439978
+            },
+            "timezone": 7200,
+            "id": 6455259,
+            "name": "Paris",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 2.3522,
+                "lat": 48.8566
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 115.92,
+                        "no": 0.11,
+                        "no2": 0.63,
+                        "o3": 103.97,
+                        "so2": 0.27,
+                        "pm2_5": 8.85,
+                        "pm10": 9.88,
+                        "nh3": 3.27
+                    },
+                    "dt": 1785424917
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Berlin",
+        "country": "DE",
+        "latitude": 52.52,
+        "longitude": 13.405,
+        "collected_at_utc": "2026-07-30T15:30:07.552969+00:00",
+        "weather": {
+            "coord": {
+                "lon": 13.4,
+                "lat": 52.52
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 38.02,
+                "feels_like": 37.15,
+                "temp_min": 35.68,
+                "temp_max": 39.97,
+                "pressure": 1009,
+                "humidity": 22,
+                "sea_level": 1009,
+                "grnd_level": 1007
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.68,
+                "deg": 192,
+                "gust": 9.39
+            },
+            "clouds": {
+                "all": 1
+            },
+            "dt": 1785424814,
+            "sys": {
+                "type": 2,
+                "id": 2011538,
+                "country": "DE",
+                "sunrise": 1785381754,
+                "sunset": 1785438175
+            },
+            "timezone": 7200,
+            "id": 6545310,
+            "name": "Mitte",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 13.405,
+                "lat": 52.52
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 101.6,
+                        "no": 0.29,
+                        "no2": 3,
+                        "o3": 123.64,
+                        "so2": 1.1,
+                        "pm2_5": 4.79,
+                        "pm10": 5.53,
+                        "nh3": 4.85
+                    },
+                    "dt": 1785425407
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Madrid",
+        "country": "ES",
+        "latitude": 40.4168,
+        "longitude": -3.7038,
+        "collected_at_utc": "2026-07-30T15:30:07.636580+00:00",
+        "weather": {
+            "coord": {
+                "lon": -3.7038,
+                "lat": 40.4168
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 37.33,
+                "feels_like": 35.28,
+                "temp_min": 36.79,
+                "temp_max": 38.14,
+                "pressure": 1015,
+                "humidity": 17,
+                "sea_level": 1015,
+                "grnd_level": 943
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.45,
+                "deg": 325,
+                "gust": 4.02
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1785424842,
+            "sys": {
+                "type": 2,
+                "id": 2084029,
+                "country": "ES",
+                "sunrise": 1785388201,
+                "sunset": 1785439938
+            },
+            "timezone": 7200,
+            "id": 6545083,
+            "name": "Sol",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": -3.7038,
+                "lat": 40.4168
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 91.13,
+                        "no": 0.03,
+                        "no2": 0.17,
+                        "o3": 87.23,
+                        "so2": 0.19,
+                        "pm2_5": 18.59,
+                        "pm10": 76.88,
+                        "nh3": 0.85
+                    },
+                    "dt": 1785425400
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Rome",
+        "country": "IT",
+        "latitude": 41.9028,
+        "longitude": 12.4964,
+        "collected_at_utc": "2026-07-30T15:30:07.729556+00:00",
+        "weather": {
+            "coord": {
+                "lon": 12.4964,
+                "lat": 41.9028
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 35.98,
+                "feels_like": 36.92,
+                "temp_min": 34.05,
+                "temp_max": 37.04,
+                "pressure": 1015,
+                "humidity": 33,
+                "sea_level": 1015,
+                "grnd_level": 1005
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 2.68,
+                "deg": 253,
+                "gust": 6.71
+            },
+            "clouds": {
+                "all": 0
+            },
+            "dt": 1785425407,
+            "sys": {
+                "type": 2,
+                "id": 2110329,
+                "country": "IT",
+                "sunrise": 1785384082,
+                "sunset": 1785436281
+            },
+            "timezone": 7200,
+            "id": 6545158,
+            "name": "Trevi",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 12.4964,
+                "lat": 41.9028
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 170.53,
+                        "no": 0.03,
+                        "no2": 0.35,
+                        "o3": 117.59,
+                        "so2": 0.81,
+                        "pm2_5": 11.66,
+                        "pm10": 22.97,
+                        "nh3": 0.86
+                    },
+                    "dt": 1785425407
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Amsterdam",
+        "country": "NL",
+        "latitude": 52.3676,
+        "longitude": 4.9041,
+        "collected_at_utc": "2026-07-30T15:30:07.809257+00:00",
+        "weather": {
+            "coord": {
+                "lon": 4.9041,
+                "lat": 52.3676
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 24.5,
+                "feels_like": 24.68,
+                "temp_min": 23.28,
+                "temp_max": 25.52,
+                "pressure": 1015,
+                "humidity": 64,
+                "sea_level": 1015,
+                "grnd_level": 1015
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 0.89,
+                "deg": 237,
+                "gust": 2.24
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1785425374,
+            "sys": {
+                "type": 2,
+                "id": 2012552,
+                "country": "NL",
+                "sunrise": 1785383834,
+                "sunset": 1785440174
+            },
+            "timezone": 7200,
+            "id": 2759794,
+            "name": "Amsterdam",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 4.9041,
+                "lat": 52.3676
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 124.39,
+                        "no": 0.38,
+                        "no2": 7.01,
+                        "o3": 102.66,
+                        "so2": 2.93,
+                        "pm2_5": 10.96,
+                        "pm10": 14.68,
+                        "nh3": 5.04
+                    },
+                    "dt": 1785425407
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Brussels",
+        "country": "BE",
+        "latitude": 50.8503,
+        "longitude": 4.3517,
+        "collected_at_utc": "2026-07-30T15:30:07.887855+00:00",
+        "weather": {
+            "coord": {
+                "lon": 4.3517,
+                "lat": 50.8466
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "overcast clouds",
+                    "icon": "04d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 22.62,
+                "feels_like": 23.05,
+                "temp_min": 21.55,
+                "temp_max": 24.32,
+                "pressure": 1016,
+                "humidity": 81,
+                "sea_level": 1016,
+                "grnd_level": 1009
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 4.33,
+                "deg": 225,
+                "gust": 6.28
+            },
+            "clouds": {
+                "all": 100
+            },
+            "dt": 1785425189,
+            "sys": {
+                "type": 2,
+                "id": 2010413,
+                "country": "BE",
+                "sunrise": 1785384334,
+                "sunset": 1785439938
+            },
+            "timezone": 7200,
+            "id": 2800866,
+            "name": "Brussels",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 4.3517,
+                "lat": 50.8503
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 2
+                    },
+                    "components": {
+                        "co": 107.92,
+                        "no": 0.22,
+                        "no2": 1.22,
+                        "o3": 93.19,
+                        "so2": 0.48,
+                        "pm2_5": 9.24,
+                        "pm10": 11.28,
+                        "nh3": 3.55
+                    },
+                    "dt": 1785425407
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Vienna",
+        "country": "AT",
+        "latitude": 48.2082,
+        "longitude": 16.3738,
+        "collected_at_utc": "2026-07-30T15:30:07.955422+00:00",
+        "weather": {
+            "coord": {
+                "lon": 16.3725,
+                "lat": 48.2083
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "scattered clouds",
+                    "icon": "03d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 31.71,
+                "feels_like": 30.49,
+                "temp_min": 31.71,
+                "temp_max": 31.71,
+                "pressure": 1017,
+                "humidity": 30,
+                "sea_level": 1017,
+                "grnd_level": 991
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.36,
+                "deg": 333,
+                "gust": 5.19
+            },
+            "clouds": {
+                "all": 40
+            },
+            "dt": 1785424888,
+            "sys": {
+                "country": "AT",
+                "sunrise": 1785382021,
+                "sunset": 1785436482
+            },
+            "timezone": 7200,
+            "id": 2761369,
+            "name": "Vienna",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 16.3738,
+                "lat": 48.2082
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 103.76,
+                        "no": 0.16,
+                        "no2": 1.43,
+                        "o3": 116.18,
+                        "so2": 2.12,
+                        "pm2_5": 7.06,
+                        "pm10": 7.74,
+                        "nh3": 2.36
+                    },
+                    "dt": 1785425309
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Copenhagen",
+        "country": "DK",
+        "latitude": 55.6761,
+        "longitude": 12.5683,
+        "collected_at_utc": "2026-07-30T15:30:08.035749+00:00",
+        "weather": {
+            "coord": {
+                "lon": 12.5689,
+                "lat": 55.6761
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 28.97,
+                "feels_like": 29.62,
+                "temp_min": 28.97,
+                "temp_max": 28.97,
+                "pressure": 1011,
+                "humidity": 50,
+                "sea_level": 1011,
+                "grnd_level": 1010
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 5.85,
+                "deg": 152,
+                "gust": 9.34
+            },
+            "clouds": {
+                "all": 10
+            },
+            "dt": 1785425146,
+            "sys": {
+                "type": 2,
+                "id": 2035645,
+                "country": "DK",
+                "sunrise": 1785381073,
+                "sunset": 1785439255
+            },
+            "timezone": 7200,
+            "id": 6949461,
+            "name": "Inner City",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 12.5683,
+                "lat": 55.6761
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 133.38,
+                        "no": 0.07,
+                        "no2": 6.38,
+                        "o3": 123.94,
+                        "so2": 1.97,
+                        "pm2_5": 10.43,
+                        "pm10": 11.48,
+                        "nh3": 6.07
+                    },
+                    "dt": 1785425408
+                }
+            ]
+        }
+    },
+    {
+        "city_requested": "Prague",
+        "country": "CZ",
+        "latitude": 50.0755,
+        "longitude": 14.4378,
+        "collected_at_utc": "2026-07-30T15:30:08.115697+00:00",
+        "weather": {
+            "coord": {
+                "lon": 14.4378,
+                "lat": 50.0755
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "clear sky",
+                    "icon": "01d"
+                }
+            ],
+            "base": "stations",
+            "main": {
+                "temp": 36.54,
+                "feels_like": 35,
+                "temp_min": 35.73,
+                "temp_max": 37.31,
+                "pressure": 1015,
+                "humidity": 21,
+                "sea_level": 1015,
+                "grnd_level": 981
+            },
+            "visibility": 10000,
+            "wind": {
+                "speed": 3.13,
+                "deg": 250
+            },
+            "clouds": {
+                "all": 5
+            },
+            "dt": 1785425144,
+            "sys": {
+                "type": 2,
+                "id": 2020173,
+                "country": "CZ",
+                "sunrise": 1785382087,
+                "sunset": 1785437345
+            },
+            "timezone": 7200,
+            "id": 3061412,
+            "name": "\u017di\u017ekov",
+            "cod": 200
+        },
+        "air_pollution": {
+            "coord": {
+                "lon": 14.4378,
+                "lat": 50.0755
+            },
+            "list": [
+                {
+                    "main": {
+                        "aqi": 3
+                    },
+                    "components": {
+                        "co": 91.82,
+                        "no": 0.2,
+                        "no2": 1.66,
+                        "o3": 104.94,
+                        "so2": 0.35,
+                        "pm2_5": 3.72,
+                        "pm10": 4.37,
+                        "nh3": 4.58
+                    },
+                    "dt": 1785425408
+                }
+            ]
+        }
+    }
+]
