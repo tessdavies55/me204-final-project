@@ -1,0 +1,11 @@
+city,aqi_category,pm2_5,pm10,temperature_c,humidity_percent,wind_speed_ms
+Madrid,Moderate,18.97,77.85,37.48,17,0.89
+Rome,Moderate,11.66,22.97,36.16,33,2.68
+Amsterdam,Moderate,10.96,14.68,24.26,64,0.89
+Copenhagen,Moderate,10.43,11.48,28.97,50,4.73
+Brussels,Fair,9.24,11.28,22.23,83,4.74
+Paris,Moderate,8.87,9.97,30.24,51,3.01
+Vienna,Moderate,7.62,8.37,31.0,39,0.93
+London,Fair,6.21,14.71,27.75,45,1.79
+Berlin,Moderate,4.79,5.53,37.23,21,3.58
+Prague,Moderate,3.72,4.37,36.45,21,2.68
